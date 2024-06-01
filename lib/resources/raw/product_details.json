@@ -1,0 +1,77 @@
+{
+  "status": 200,
+  "message": "Product found",
+  "product": {
+    "item_id": 1,
+    "name": "Fragrance Sticks",
+    "base_price": "250",
+    "bulk_orders": false,
+    "is_food": true,
+    "is_veg": true,
+    "item_category": "Homemade Food",
+    "details": "Fragrance Sticks Fragrance Sticks Fragrance Sticks Fragrance Sticks ",
+    "seller": {
+      "id": 1,
+      "name": "Amigo Foods",
+      "coordinates": "19.234,72.545",
+      "working_hours": "10.00 AM - 10.00 PM",
+      "delivery_note": "Available up to 3.5 Kms",
+      "contact": "9823456511",
+      "locality": "Alibag",
+      "address": "Near bus stand",
+      "taluka": "Alibag"
+    },
+    "images": [
+      "image1.jps",
+      "image2.jpg"
+    ],
+    "variants": [
+      {
+        "name": "100 gm",
+        "price": "150"
+      },
+      {
+        "name": "200 gm",
+        "price": "250"
+      },
+      {
+        "name": "300 gm",
+        "price": "250"
+      }
+    ],
+    "rating": {
+      "avg_rating": "3.8",
+      "reviews": [
+        {
+          "user": {
+            "name": "Shrutika Magar",
+            "locality": "Thal",
+            "avatar": "some_image.png"
+          },
+          "rating": "4.3",
+          "review": "Good food, good life",
+          "date_created": "20200709"
+        },
+        {
+          "user": {
+            "name": "Shrutika Magar",
+            "locality": "Thal",
+            "avatar": "some_image.png"
+          },
+          "rating": "4.3",
+          "review": "Good food, good life",
+          "date_created": "20200709"
+        },
+        {
+          "user": {
+            "name": "Shrutika Magar",
+            "avatar": "some_image.png"
+          },
+          "rating": "4.3",
+          "review": "Good food, good life",
+          "date_created": "20200709"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,4 @@
+storePassword=myangel0
+keyPassword=myangel0
+keyAlias=cypher
+storeFile=D:\Code\digi_keystore.jks

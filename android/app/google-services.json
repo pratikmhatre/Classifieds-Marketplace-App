@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "733667029832",
+    "firebase_url": "https://digigad-flutter.firebaseio.com",
+    "project_id": "digigad-flutter",
+    "storage_bucket": "digigad-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733667029832:android:41e5752f255f08b735797d",
+        "android_client_info": {
+          "package_name": "cypher.digigad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733667029832-1glntvq7rs1qeo007i6p514qiss8ohs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeCkfYcdOFQ35XKDF0q_L7JuQU5TcIsuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733667029832-1glntvq7rs1qeo007i6p514qiss8ohs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733667029832:android:41e5752f255f08b735797d",
+        "android_client_info": {
+          "package_name": "cypher.digigad.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733667029832-1glntvq7rs1qeo007i6p514qiss8ohs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeCkfYcdOFQ35XKDF0q_L7JuQU5TcIsuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733667029832-1glntvq7rs1qeo007i6p514qiss8ohs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

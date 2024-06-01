@@ -1,0 +1,51 @@
+import 'package:auto_route/annotations.dart';
+import 'package:digigad/ui/ad_details/addetails_view.dart';
+import 'package:digigad/ui/adlist/adlist_view.dart';
+import 'package:digigad/ui/all_categories/all_categories_view.dart';
+import 'package:digigad/ui/create_ad/createad_view.dart';
+import 'package:digigad/ui/dashboard/dashboard_view.dart';
+import 'package:digigad/ui/edit_avatar/edit_avatar_view.dart';
+import 'package:digigad/ui/edit_profile/edit_profile_view.dart';
+import 'package:digigad/ui/home/home_view.dart';
+import 'package:digigad/ui/login/login_view.dart';
+import 'package:digigad/ui/my_ads/my_ads_view.dart';
+import 'package:digigad/ui/otp/otp_view.dart';
+import 'package:digigad/ui/search/search_view.dart';
+import 'package:digigad/ui/splash/splash_view.dart';
+import 'package:digigad/ui/store_details/store_details_view.dart';
+import 'package:digigad/ui/stores/item_registration/item_registration_view.dart';
+import 'package:digigad/ui/stores/resto_list/store_list_view.dart';
+import 'package:digigad/ui/stores/select_item_category/item_category_view.dart';
+import 'package:digigad/ui/stores/seller_dashboard/store_menu_view.dart';
+import 'package:digigad/ui/stores/seller_menu.dart';
+import 'package:digigad/ui/stores/seller_registration/seller_registration_view.dart';
+import 'package:digigad/ui/stores/strore_pdp/StorePdpView.dart';
+import 'package:digigad/ui/view_images/view_images_view.dart';
+import 'package:digigad/ui/youtube_play/youtube_player_view.dart';
+
+@MaterialAutoRouter(routes: [
+  AutoRoute(page: SplashView, initial: true),
+  AutoRoute(page: HomeView),
+  AutoRoute(page: LoginView),
+  AutoRoute(page: EditProfileView),
+  AutoRoute(page: OtpView),
+  AutoRoute(page: AdlistView),
+  AutoRoute(page: AdDetailsView),
+  AutoRoute(page: CreateAdView),
+  AutoRoute(page: SearchView),
+  AutoRoute(page: AllCategoriesView),
+  AutoRoute(page: DashboardView),
+  AutoRoute(page: EditAvatarView),
+  AutoRoute(page: ViewImagesView),
+  AutoRoute(page: MyAdsView),
+  AutoRoute(page: YoutubePlayerView),
+  AutoRoute(page: StoreListView),
+  AutoRoute(page: SellerMenu),
+  AutoRoute(page: SellerRegistrationView),
+  AutoRoute(page: StoreMenuView),
+  AutoRoute(page: StorePdpView),
+  AutoRoute(page: ItemRegistrationView),
+  AutoRoute(page: ItemCategoryView),
+  AutoRoute(page: StoreDetailsView),
+])
+class $AppRouter {}

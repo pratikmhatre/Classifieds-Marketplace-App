@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "message": "Product found",
+  "stores": [
+    {
+      "name": "Amigo Foods",
+      "store_category": {
+        "id": 1,
+        "title": "Homemade Food",
+        "value": "food"
+      },
+      "is_food": true,
+      "is_pure_veg": true,
+      "delivery_note": "Not Available",
+      "work_hours": "10:00 AM to 10:00 PM",
+
+      "coordinates": "19.2734,87.9865",
+      "locality": "Bramhan Ali",
+      "address": "Alibag-Rewas Road",
+      "taluka": "Alibag",
+      "image": "some_image.jpg",
+      "contact": "8765466799",
+      "rating": "3.8",
+      "store_link": "www.digigad.com/somestore",
+      "item_categories": [
+        {
+          "id": 1,
+          "name": "Fish & Seafood"
+        },
+        {
+          "id": 2,
+          "name": "Punjabi Food"
+        },
+        {
+          "id": 3,
+          "name": "Moghlai Food"
+        },
+        {
+          "id": 1,
+          "name": "Fast Food"
+        }
+      ]
+    }
+  ]
+}
