@@ -33,15 +33,19 @@ Add your app screenshots here to showcase its UI and features.
 
 ### Home Screen
 
-![Home Screen](path_to_home_screen_image)
+![Home Screen](https://github.com/pratikmhatre/digigad-classifieds-marketplace/blob/main/screenshots/image1.png)
 
 ### Post Ad Screen
 
-![Post Ad Screen](path_to_post_ad_screen_image)
+![Post Ad Screen](https://github.com/pratikmhatre/digigad-classifieds-marketplace/blob/main/screenshots/image2.png)
+
+### Browse Ads Screen
+
+![Ad Listing Screen](https://github.com/pratikmhatre/digigad-classifieds-marketplace/blob/main/screenshots/image4.png)
 
 ### Ad Details Screen
 
-![Ad Details Screen](path_to_ad_details_screen_image)
+![Ad Details Screen](https://github.com/pratikmhatre/digigad-classifieds-marketplace/blob/main/screenshots/image5.png)
 
 ## Installation and Setup
 
