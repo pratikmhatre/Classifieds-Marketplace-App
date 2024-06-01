@@ -29,23 +29,10 @@ utilizes several libraries, SDKs, and services.
 
 ## Screenshots
 
-Add your app screenshots here to showcase its UI and features.
-
-### Home Screen
-
-![Home Screen](https://github.com/pratikmhatre/digigad-classifieds-marketplace/blob/main/screenshots/image1.png)
-
-### Post Ad Screen
-
-![Post Ad Screen](https://github.com/pratikmhatre/digigad-classifieds-marketplace/blob/main/screenshots/image2.png)
-
-### Browse Ads Screen
-
-![Ad Listing Screen](https://github.com/pratikmhatre/digigad-classifieds-marketplace/blob/main/screenshots/image4.png)
-
-### Ad Details Screen
-
-![Ad Details Screen](https://github.com/pratikmhatre/digigad-classifieds-marketplace/blob/main/screenshots/image5.png)
+<img src="https://github.com/pratikmhatre/digigad-classifieds-marketplace/blob/main/screenshots/image1.png" alt="Sample Image" width="250"/>
+<img src="https://github.com/pratikmhatre/digigad-classifieds-marketplace/blob/main/screenshots/image2.png" alt="Sample Image" width="250"/>
+<img src="https://github.com/pratikmhatre/digigad-classifieds-marketplace/blob/main/screenshots/image4.png" alt="Sample Image" width="250"/>
+<img src="https://github.com/pratikmhatre/digigad-classifieds-marketplace/blob/main/screenshots/image5.png" alt="Sample Image" width="250"/>
 
 ## Installation and Setup
 
@@ -84,4 +71,4 @@ For any inquiries or feedback, please contact [Pratik Mhatre](mailto:pnmhatre.de
 
 ---
 
-Developed with ❤️ by [Your Name]
+Developed with ❤️ by [Pratik Mhatre]
