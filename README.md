@@ -28,12 +28,12 @@ utilizes several libraries, SDKs, and services.
 - **Media**: Incorporated `youtube_player` for video playback.
 
 ## Screenshots
-
+<div style="display: flex; flex-direction: row;">
 <img src="https://github.com/pratikmhatre/digigad-classifieds-marketplace/blob/main/screenshots/image1.png" alt="Sample Image" width="250"/>
 <img src="https://github.com/pratikmhatre/digigad-classifieds-marketplace/blob/main/screenshots/image2.png" alt="Sample Image" width="250"/>
 <img src="https://github.com/pratikmhatre/digigad-classifieds-marketplace/blob/main/screenshots/image4.png" alt="Sample Image" width="250"/>
 <img src="https://github.com/pratikmhatre/digigad-classifieds-marketplace/blob/main/screenshots/image5.png" alt="Sample Image" width="250"/>
-
+</div>
 ## Installation and Setup
 
 1. **Clone the repository:**
