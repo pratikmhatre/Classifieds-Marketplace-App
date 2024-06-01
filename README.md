@@ -1,12 +1,14 @@
-
 # Classifieds Marketplace App
 
-Welcome to the Classifieds Marketplace App! This application is designed to facilitate buying and selling of used and new products across various categories. It showcases a range of skills and utilizes several libraries, SDKs, and services.
+Welcome to the Classifieds Marketplace App! This application is designed to facilitate buying and
+selling of used and new products across various categories. It showcases a range of skills and
+utilizes several libraries, SDKs, and services.
 
 ## Features
 
 - **Classifieds Marketplace**: Users can buy and sell products across various categories.
-- **Post Ads**: Users can post free ads with detailed information including name, price, images, videos, and description.
+- **Post Ads**: Users can post free ads with detailed information including name, price, images,
+  videos, and description.
 - **Geolocation Support**: The app shows nearby ads based on the user's location.
 - **Rich Media Support**: Users can upload images and videos with their ads.
 
@@ -30,12 +32,15 @@ Welcome to the Classifieds Marketplace App! This application is designed to faci
 Add your app screenshots here to showcase its UI and features.
 
 ### Home Screen
+
 ![Home Screen](path_to_home_screen_image)
 
 ### Post Ad Screen
+
 ![Post Ad Screen](path_to_post_ad_screen_image)
 
 ### Ad Details Screen
+
 ![Ad Details Screen](path_to_ad_details_screen_image)
 
 ## Installation and Setup
@@ -62,7 +67,8 @@ Add your app screenshots here to showcase its UI and features.
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request for any features, bug fixes, or enhancements.
+Contributions are welcome! Please fork the repository and submit a pull request for any features,
+bug fixes, or enhancements.
 
 ## License
 
